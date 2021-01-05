@@ -1,0 +1,36 @@
+body{margin: 0;
+
+    font-family: 'Redressed', cursive;
+
+    font-family: 'Roboto', sans-serif;
+}
+h1{  
+
+
+font-size: 50px;
+
+}
+.top{
+background-color: cornflowerblue;
+height: 700px;
+
+}
+.speech{
+
+width: 40%;    
+float: left;
+margin-left: 5%;
+padding: 2%;
+}
+.speech img{
+width: 100%;
+
+}
+.dream {
+background-color:skyblue;
+height: 700px;
+}
+.fav{
+    background-color:rgb(199, 235, 250);
+    height: 400px;
+}
